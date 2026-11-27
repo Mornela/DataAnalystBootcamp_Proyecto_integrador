@@ -24,5 +24,5 @@ visita hasta la compra. El objetivo es identificar dónde pierde más clientes.
 Desde VS Code, abre una terminal en esta carpeta y ejecuta:
 
 ```powershell
-python Proyecto_integrador_Olena.py
+python Proyecto_integrador.py
 ```
